@@ -27,6 +27,5 @@ public class CalculatorSwitch {
             default:
         }
         System.out.printf("Result: %d %s %d = %.3f\n ", val0 , operator , val1, result);
-        // to be amended
    }
 }
